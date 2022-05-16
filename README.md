@@ -22,7 +22,7 @@ Symbol CLI require **Node.js 10 or 12 LTS** to execute.
 1. Clone the project.
 
 ```
-git clone https://github.com/symbol/desktop-wallet.git
+git clone https://github.com/ishidad2/desktop-wallet.git
 ```
 
 2. Install the dependencies.
