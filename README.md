@@ -27,7 +27,7 @@ git clone https://github.com/symbol/desktop-wallet.git
 
 2. Install the dependencies.
 ```
-cd symbol-desktop-wallet
+cd desktop-wallet
 npm install 
 ```
 
